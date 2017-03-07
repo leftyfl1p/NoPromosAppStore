@@ -1,0 +1,10 @@
+Package: com.leftyfl1p.nopromosappstore
+Name: NoPromosAppStore
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Removes Ads in AppStore searches
+Maintainer: leftyfl1p <leftyfl1p@icloud.com>
+Author: leftyfl1p <leftyfl1p@icloud.com>
+Section: Tweaks
+Depiction: https://leftyfl1p.github.io/depictions/nopromosappstore/
